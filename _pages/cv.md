@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: " "
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,54 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Earth, Universe and Environmental Sciences, Université Grenoble Alpes (France), 2023
+* M.Sc. in Earth Science, Atmosphere and Climate, Université Grenoble Alpes (France), 2020
+* B.Sc. in Physics, Universidad Autónoma de Madrid (Spain), 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* June 2024 - present: Postdoctoral Research Associate
+  * Snow HydRO Lab @ University of Utah, Salt Lake City, UT (USA)
+  * Active development of the iSnobal snow model focusing on snowmelt predictions in the Upper Colorado River Basin (Western US)
+  * Supervisor: S. McKenzie Skiles
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Oct. 2020 - Dec. 2023: Ph.D. in Snow Radiative Transfer
+  * Université Grenoble Alpes, Grenoble (France)
+  * Three-dimensional modeling of the interactions between solar radiation and snow: from the fundamental role of its microstructure to that of mountain topography
+  * Supervisor: Ghislain Picard (IGE) & Marie Dumont (CNRM-CEN)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Feb. 2020 - Jun. 2020: Graduate internship
+  * Institut des Géosciences de l'Environnement (IGE), Grenoble (France)
+  * Impact of topography on snow surface temperature
+  * Supervisor: Ghislain Picard
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Sep. 2019 - Dec. 2019: Research engineer
+  * Institut des Géosciences de l'Environnement (IGE), Grenoble (France)
+  * DEM generation with Structure from Motion (SfM) techniques
+  * Supervisor: Laurent Arnaud & Ghislain Picard
+
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Work in progress
