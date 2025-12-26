@@ -3,7 +3,7 @@ title: "Downscaling HRRR Radiation for Distributed Snow Modeling: Part 1 - Incom
 collection: publications
 category: preprints
 permalink: /publication/olson2025_isnobal
-excerpt: ''
+excerpt: '' # here for paper description
 date: 2025-11-28
 venue: 'ESS Open Archive'
 #paperurl: 'https://doi.org/10.22541/essoar.176442430.00909959/v1'
