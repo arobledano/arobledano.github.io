@@ -38,6 +38,27 @@ Work experience
   * Supervisor: Laurent Arnaud & Ghislain Picard
 
   
+Projects and awards
+======
+* <b><a href="https://www.shf-hydro.org/prix/prix-henri-milon-hydrologie/">PhD award</a></b> in Hydrology Henri Milon 2025 by the Société Hydrotechnique de France 
+
+* Travel grant to Busan IAMAS-IACS-IAPSO Joint Assembly 2025
+  * Funding body: International Association of Cryospheric Sciences (IACS) and University of Utah
+  * Grant amount: $1000 (IACS) and $500 (University of Utah)
+
+
 Service and leadership
 ======
-* Work in progress
+* Peer-review activity: Journal of Glaciology, Atmospheric Pollution Research
+
+* Active role in the development of the <b>open-source</b><a href="https://github.com/iSnobal">Community iSnobal model</a> (snow mass and energy balance model)
+
+* <b>Master students</b>:
+  * 2024 - 2026: Mentoring of current graduate students in the Snow HydRO Lab (University of Utah)
+  * 2021: Elise Ortega, IGE (Université Grenoble Alpes): Comparisons of algorithms for remote sensing of snow surface temperature (co-supervised with Sara Arioli)
+
+* Participation in <b>NASA's</b> <a href="https://wwao.jpl.nasa.gov/">Western Water Action Office (WWAO)</a> workshop to improve water management in the arid Western US by connecting NASA data with water managers and decision makers
+
+* <b>PhD research <a href="https://www.esrf.fr/files/live/sites/www/files/ExternalFiles/Communication/Highlights/2023/index.html#/page/126">highlighted</a></b> by the European Synchrotron Radiation Facility (ESRF, France)
+
+* Participation in a <b><a href="https://www.insu.cnrs.fr/fr/cnrsinfo/une-campagne-de-science-participative-pour-mieux-comprendre-le-depot-de-poussieres">large-scale field campaign</a></b> to measure the presence of Saharan dust in the snowpack (French Alps)
