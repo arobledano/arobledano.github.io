@@ -17,7 +17,12 @@ Education
 
 Work experience
 ======
-* June 2024 - present: Postdoctoral Research Associate
+* Oct. 2026 - current: Postdoctoral Research
+  * CryoPyr @ Instituto Pirenaico de Ecología (IPE-CSIC), Zaragoza (Spain)
+  * Active development of the Multiple Snow Assimilation system (MuSA) data assimilation toolbox.
+  * Supervisor: Esteban Alonso-González
+
+* Jun. 2024 - Sep. 2026: Postdoctoral Research Associate
   * Snow HydRO Lab @ University of Utah, Salt Lake City, UT (USA)
   * Active development of the iSnobal snow model focusing on snowmelt predictions in the Upper Colorado River Basin (Western US)
   * Supervisor: S. McKenzie Skiles
@@ -38,27 +43,28 @@ Work experience
   * Supervisor: Laurent Arnaud & Ghislain Picard
 
   
-Projects and awards
+Awards, service and merits
 ======
 * <b><a href="https://www.shf-hydro.org/prix/prix-henri-milon-hydrologie/">PhD award</a></b> in Hydrology Henri Milon 2025 by the Société Hydrotechnique de France 
 
 * Travel grant to Busan IAMAS-IACS-IAPSO Joint Assembly 2025
   * Funding body: International Association of Cryospheric Sciences (IACS) and University of Utah
-  * Grant amount: $1000 (IACS) and $500 (University of Utah)
 
+* <b>Open-source model development</b>: active role in the development of the <a href="https://github.com/iSnobal">Community iSnobal model</a> (snow mass and energy balance model)
 
-Service and leadership
-======
-* Peer-review activity: Journal of Glaciology, Atmospheric Pollution Research
-
-* Active role in the development of the <b>open-source</b><a href="https://github.com/iSnobal">Community iSnobal model</a> (snow mass and energy balance model)
-
-* <b>Master students</b>:
-  * 2024 - 2026: Mentoring of current graduate students in the Snow HydRO Lab (University of Utah)
-  * 2021: Elise Ortega, IGE (Université Grenoble Alpes): Comparisons of algorithms for remote sensing of snow surface temperature (co-supervised with Sara Arioli)
+* <b>Workshop organizing committee</b>: CryoDA 2026: Training workshop on data assimilation for the terrestrial cryosphere. Jaca (Spain), November 2026 (~ 25 attendees)
 
 * Participation in <b>NASA's</b> <a href="https://wwao.jpl.nasa.gov/">Western Water Action Office (WWAO)</a> workshop to improve water management in the arid Western US by connecting NASA data with water managers and decision makers
 
-* <b>PhD research <a href="https://www.esrf.fr/files/live/sites/www/files/ExternalFiles/Communication/Highlights/2023/index.html#/page/126">highlighted</a></b> by the European Synchrotron Radiation Facility (ESRF, France)
+* Peer-review activity: Journal of Glaciology, Atmospheric Pollution Research, Journal of Advances in Modelling Earth Systems
 
-* Participation in a <b><a href="https://www.insu.cnrs.fr/fr/cnrsinfo/une-campagne-de-science-participative-pour-mieux-comprendre-le-depot-de-poussieres">large-scale field campaign</a></b> to measure the presence of Saharan dust in the snowpack (French Alps)
+
+Supervision and teaching
+======
+
+* <b>Master students</b>:
+  * 2026: Madison Muxworthy, A hybrid physics-LSTM framework for snow-dominated streamflow in the Yampa River Basin, Colorado, University of Utah, USA (co-supervised with M. Skiles).
+  * 2021: Elise Ortega, Comparisons of algorithms for remote sensing of snow surface temperature, Université Grenoble Alpes, France (co-supervised with S. Arioli).
+  
+* <b>Guest lecturer</b>: Master in Earth Sciences, Atmosphere and Climate 2022/2023. Course: Remote sensing retrievals and GIS (9 hours TP). Université Grenoble Alpes, France, 2022
+
