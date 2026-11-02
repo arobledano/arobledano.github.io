@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+You can download my full CV [here](/files/cv_RobledanoAlvaro_current.pdf).
 Education
 ======
 * Ph.D. in Earth, Universe and Environmental Sciences, Université Grenoble Alpes (France), 2023
