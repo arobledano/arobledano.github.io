@@ -1,7 +1,7 @@
 ---
 title: "Downscaling HRRR Radiation for Distributed Snow Modeling: Part 2 - Topographic Correction of Incoming Longwave and Evaluation of Combined Radiation Updates"
 collection: publications
-category: publications
+category: manuscripts
 permalink: /publication/robledano2026_isnobal
 excerpt: ''
 date: 2026-10-30
